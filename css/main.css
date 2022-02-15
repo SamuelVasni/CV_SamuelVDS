@@ -179,7 +179,7 @@ p{
 /*Estilos para la seccion sobre mi*/
 #about{
     height: 678px;
-    background-image: url(/css/img/img03.jpg);
+    background-image: url(css/img/img03.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-blend-mode: darken;
